@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T11:03:14.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Djq1DZFkr85S2MQYvRf_" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-05T11:27:21.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mZ9k3iMwcjIMxU1ymJlq" version="20.4.0" type="github" pages="3">
   <diagram id="xBrHE17prQTHOuqMo0kH" name="Current Caching">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,12 +318,12 @@
         <mxCell id="HVC1531mtmuk6JBD9qM5-65" value="Redis Gateway" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=none;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="1005" y="1562.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HVC1531mtmuk6JBD9qM5-67" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVC1531mtmuk6JBD9qM5-36" target="HVC1531mtmuk6JBD9qM5-59">
+        <mxCell id="HVC1531mtmuk6JBD9qM5-67" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.462;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HVC1531mtmuk6JBD9qM5-36" target="HVC1531mtmuk6JBD9qM5-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="1572.5" as="sourcePoint" />
             <mxPoint x="700" y="1522.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="895" y="1442.5" />
+              <mxPoint x="967" y="1443" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -398,12 +398,12 @@
         <mxCell id="HVC1531mtmuk6JBD9qM5-82" value="Have Cache ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="660" y="1712.5" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HVC1531mtmuk6JBD9qM5-85" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.427;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HVC1531mtmuk6JBD9qM5-59">
+        <mxCell id="HVC1531mtmuk6JBD9qM5-85" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.462;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HVC1531mtmuk6JBD9qM5-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="1802.5" as="sourcePoint" />
             <mxPoint x="785" y="1742.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="955" y="1742.5" />
+              <mxPoint x="967" y="1743" />
             </Array>
           </mxGeometry>
         </mxCell>
